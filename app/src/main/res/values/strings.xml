@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DarkModeAndroid</string>
+    <string name="DarkMode">Dark Mode</string>
+    <string name="gotoFragment">Go To Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

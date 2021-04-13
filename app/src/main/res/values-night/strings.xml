@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DarkModeAndroid</string>
+    <string name="DarkMode">Dark Mode</string>
+    <string name="gotoFragment">Go To Fragment</string>
+</resources>
